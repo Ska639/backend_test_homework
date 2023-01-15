@@ -1,0 +1,8 @@
+# Игнорировать файл README.md.
+/c/Dev/backend_test_homework/README.md
+
+# Игнорировать файл side.txt в директории build.
+build/side.txt
+
+# Игнорировать все файлы с расширением .doc
+*.doc 
