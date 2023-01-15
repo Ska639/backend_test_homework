@@ -1,5 +1,5 @@
 # Игнорировать файл README.md.
-/c/Dev/backend_test_homework/README.md
+README.md
 
 # Игнорировать файл side.txt в директории build.
 build/side.txt
